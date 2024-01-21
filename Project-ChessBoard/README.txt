@@ -1,0 +1,1 @@
+Automatic Chessboard by Passe06 on Thingiverse: https://www.thingiverse.com/thing:5191069
