@@ -19,3 +19,9 @@
 - [Schematic](https://www.instructables.com/Automated-Chessboard/) <br>
 - [Chess Engine by FreeCodeCamp](https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/) <br>
 - [Chess Engine Theory](https://healeycodes.com/building-my-own-chess-engine) <br>
+- [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page) <br>
+- [Chess Engine Programming Grp](http://computerchess.org.uk/ccrl/4040/) <br>
+- [Cpp Chess Engine](https://stockfishchess.org/) <br>
+- [Easy Chess Engine](http://www.tckerrigan.com/Chess/TSCP/) <br>
+- [Chess Engine in C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) <br>
+
